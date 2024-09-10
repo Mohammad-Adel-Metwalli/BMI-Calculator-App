@@ -1,0 +1,1 @@
+double bmiCalculations({required int height, required int weight}) => weight / ((height * height) / 10000);

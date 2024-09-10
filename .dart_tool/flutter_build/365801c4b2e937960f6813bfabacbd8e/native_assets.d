@@ -1,0 +1,1 @@
+ C:\\Users\\elard\\StudioProjects\\bmi_calculator_app\\.dart_tool\\flutter_build\\365801c4b2e937960f6813bfabacbd8e\\native_assets.yaml: 
